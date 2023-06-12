@@ -1,4 +1,4 @@
-# SDNDeploymentRaspberry
+# Estudio de despliegue de redes SDN utilizando dispositivos Raspberry Pi
 Este proyecto pretende desplegar y evaluar una red SDN empleando dispositivos Raspberry Pi.
 Aquí se encuentran los diferentes códigos empleados para realizar las pruebas en las máquinas Raspberry Pi. 
 Se ha empleado Mininet como herramienta para emular las redes y el controlador POX.
